@@ -1,4 +1,4 @@
-# black_tea ~紅茶ゲー~
+# black_tea ～紅茶ゲー～
 <h1>起動</h1>
 <b>simulation.exeが本体です。</b>
 
