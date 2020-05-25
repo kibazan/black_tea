@@ -1,6 +1,7 @@
 # black_tea ～紅茶ゲー～
 <h1>ダウンロード</h1>
-<p>間違ってsimulation.zipにしようとしたのがsimulatino.zipになってました。simulatino.zipをダウンロードしてください。</p>
+<p>間違って"Simulation-alpha.zip"にしようとしたのが"Simulatino-alpha.zip"になってました。許してください。</p>
+<p>Simulatino-alpha.zip"をダウンロードします。</p>
 <p>Clone or Downloadのボタンを押してDownload ZIPの項目を押してダウンロードしてください。（git cloneコマンドでも一応可。たぶん。）</p>
 
 <h1>起動</h1>
