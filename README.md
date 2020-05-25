@@ -1,6 +1,7 @@
 # black_tea ～紅茶ゲー～
 <h1>Download</h1>
 <p>間違ってsimulation.zipにしようとしたのがsimulatino.zipになってました。simulatino.zipをダウンロードしてください。</p>
+<p>Clone or Downloadのボタンを押してDownload as zipとでもしてください。</p>
 
 <h1>起動</h1>
 <b>simulation.exeが本体です。</b>
