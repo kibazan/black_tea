@@ -1,11 +1,10 @@
 # black_tea ～紅茶ゲー～
 <h1>Download</h1>
 <p>間違ってsimulation.zipにしようとしたのがsimulatino.zipになってました。simulatino.zipをダウンロードしてください。</p>
-<p>Clone or Downloadのボタンを押してDownload as zipとでもしてください。</p>
+<p>Clone or Downloadのボタンを押してDownload ZIPの項目を押してダウンロードしてください。（git cloneコマンドでも一応可。たぶん。）</p>
 
 <h1>起動</h1>
 <b>simulation.exeが本体です。</b>
-
 <b>dataフォルダはいじらないでください。セーブデータを削除したいときはdata/saveフォルダにあるデータを削除してください。</b>
 
 <h1>操作方法</h1>
