@@ -3,6 +3,7 @@
 <p>間違って"Simulation-alpha.zip"にしようとしたのが"Simulatino-alpha.zip"になってました。許してください。</p>
 <p>"Simulatino-alpha.zip"をダウンロードします。</p>
 <p>Clone or Downloadのボタンを押してDownload ZIPの項目を押してダウンロードしてください。（git cloneコマンドでも一応可。たぶん。）</p>
+<p>ダウンロード後は解凍してください。</p>
 
 <h1>起動</h1>
 <p><b>simulation.exeが本体です。</b></p>
